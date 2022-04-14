@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -126,16 +128,17 @@
                         echo "<p>[E]Uptown girl</p>";
                         echo "<br/>";
                         ?>
-                        
+
                         <br>
                         <p class='text-dark fw-bolder'>PLAY</p>
                         <audio controls>
-                    <source src="audios/sound1.mp3" type="audio/mpeg">
-                </audio> 
+                        <source src="audios/sound3.mp3" type="audio/mpeg">
+                        </audio> 
                     </div>
                 </div>
             </div>
         </section>
+
 
         <footer class="py-3 bg-primary">
             <div class="container px-4"><p class="m-0 text-center text-dark">Copyright &copy; 2022. Jet Francis Q. Podaca</p></div>

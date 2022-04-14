@@ -59,7 +59,7 @@
                         <img src="images/icon02.PNG" width="100" height="100">
                     
                         <?php
-
+                        //lyrics and chords
                         echo "<h2 class='text-primary'>More Than Words</h2>";  
                         echo "<p class='lead'>Westlife</p>";
                         echo "<br/>";
@@ -106,11 +106,13 @@
                         
                         ?>
 
+
                         <br>
                         <p class='text-dark fw-bolder'>PLAY</p>
                         <audio controls>
-                    <source src="audios/sound1.mp3" type="audio/mpeg">
-                </audio> 
+                        <source src="audios/sound4.mp3" type="audio/mpeg">
+                        </audio> 
+
                     </div>
                 </div>
             </div>
