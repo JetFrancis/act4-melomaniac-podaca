@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -36,10 +34,10 @@
             <div class="container px-3 mb-0 text-center">
 
                 <img src="images/icon01.PNG" width="50" height="50">
-                <h3 class="lead">SONG 1</h3>
+                <h3 class="lead">SONG 3</h3>
 
                 <?php echo "<br/>" ?>
-                <h1 class='font-italic'>"Take Me Home, Country Road"</h1> 
+                <h1 class='font-italic'>"Uptown Girl"</h1>  
                 
             </div>
         </header>
@@ -58,38 +56,77 @@
                     
                         <?php
 
-                        echo "<h2 class='text-primary'>Take Me Home, Country Road</h2>";  
-                        echo "<p class='lead'>John Denver</p>";
+                        echo "<h2 class='text-primary'>Uptown Girl</h2>";  
+                        echo "<p class='lead'>Billy Joel</p>";
                         echo "<br/>";
 
-                        echo "<p>[G] Almost Heaven, [Em] West Virginia</p>";
-                        echo "<p>[D] Blue Ridge Mountains, [C] Shenandoah [G] River</p>";
-                        echo "<p>[G] Life is old here, [Em] older than the trees</p>";
-                        echo "<p>[D] younger than the mountains, [C] blowin like a [G] breeze</p>";
+                        echo "<p>[F#m]She's been living in her [G#m]uptown world</p>";
+                        echo "<p>[A]I bet she [B]never had a [E]back street guy</p>";
+                        echo "<p>[F#m]I bet her mama never [G#m]told her why</p>";
+                        echo "<p>[A]I'm gonna [B]try for an</p>";
+                        echo "<br/>";
+
+                        echo "<p>[E]Uptown girl</p>";
+                        echo "<p>[F#m]She's been living in her [G#m]white bread world</p>";
+                        echo "<p>[A]As long as [B]anyone with [E]hot blood can</p>";
+                        echo "<p>[F#m]And now she's looking for a [G#m]downtown man</p>";
+                        echo "<p>[A]That's what [B]I'm</p>";
                         echo "<br/>";
 
                         echo "<p class='small'>[Chorus]</p>";
-                        echo "<p>Country [G] Roads, take me [D] home</p>";
-                        echo "<p>To a [Em] place, I [C] belong</p>";
-                        echo "<p>West [G] Virginia, mountain [D] mama</p>";
-                        echo "<p>Take me [C] home, country [G] roads</p>";
+                        echo "<p>[C]And when she [Am] knows what she [Dm]wants from her [G]time</p>";
+                        echo "<p>[C]And when she [Am]wakes up and [Dm]makes up her [E]mind</p>";
+                        echo "<p>[A]She'll see I'm [F#m]not so tough</p>";
+                        echo "<p>[Bm]Just because [B]I'm in love with an</p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Verse 2]</p>";
-                        echo "<p>[G] All my memories [Em] gather round her</p>";
-                        echo "<p>[D] Miner's lady, [C] stranger to blue [G] water</p>";
-                        echo "<p>[G] Dark and dusty, [Em] painted on the sky</p>";
-                        echo "<p>[D] Misty taste of moonshine, [C] teardrop in my [G] eye</p>";
+                        echo "<p>[E]Uptown girl</p>";
+                        echo "<p>[F#m]You know I've seen her in her [G#m]uptown world</p>";
+                        echo "<p>[A]She's getting [B]tired of [E]high class toys</p>";
+                        echo "<p>[F#m]And all her presents from her [G#m]uptown boys</p>";
+                        echo "<p>[A]She's got a [B]choice</p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Verse 3]</p>";
-                        echo "<p>[Em] I hear her [D] voice in the [G] morning hour she calls me</p>";
-                        echo "<p>The [C] radio re- [G]minds me of my [D] home far away</p>";
-                        echo "<p>And [Em] driving down the [F] road I get a [C] feeling that</p>";
-                        echo "<p>I [G] should have been home [D] yesterday, yester-[D7] day</p>";
+                        echo "<p>[G] [A] [F#] [Bm]</p>";
+                        echo "<p>[G] [A] [F#] [B]</p>";
                         echo "<br/>";
 
+                        echo "<p>[E]Uptown girl</p>";
+
+                        echo "<p>[F#m]You know I can't afford to [G#m]buy her pearls</p>";
+                        echo "<p>[A]But maybe [B]someday when my [E]ship comes in</p>";
+                        echo "<p>[F#m]She'll understand what kind of [G#m]guy I've been</p>";
+                        echo "<p>[A]And then I'll [B]win</p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Chorus]</p>";
+                        echo "<p>[C]And when she [Am] knows what she [Dm]wants from her [G]time</p>";
+                        echo "<p>[C]And when she [Am]wakes up and [Dm]makes up her [E]mind</p>";
+                        echo "<p>[A]She'll see I'm [F#m]not so tough</p>";
+                        echo "<p>[Bm]Just because [B]I'm in love with an</p>";
+                        echo "<br/>";
+
+                        echo "<p>[E]Uptown girl</p>";
+                        echo "<br/>";
+                        echo "<p>[F#m]She's been living in her [G#m]white bread world</p>";
+                        echo "<p>[A]As long as [B]anyone with [E]hot blood can</p>";
+                        echo "<p>[F#m]And now she's looking for a [G#m]downtown man</p>";
+                        echo "<p>[A]That's what [B]I'm</p>";
+                        echo "<br/>";
+
+                        echo "<p>[E]Uptown girl</p>";
+                        echo "<p>[G#m]She's my uptown [F#]girl</p>";
+                        echo "<p>You [B]know I'm in [C#]love with an</p>";
+                        echo "<br/>";
+
+                        echo "<p>[F#]Uptown girl</p>";
+                        echo "<p>[G#m]My uptown [F#]girl</p>";
+                        echo "<p>You [B]know I'm in [C#]love with an </p>";
+                        echo "<br/>";
+                        echo "<p>[E]Uptown girl</p>";
+                        echo "<br/>";
                         ?>
+                        
                         <br>
                         <p class='text-dark fw-bolder'>PLAY</p>
                         <audio controls>
