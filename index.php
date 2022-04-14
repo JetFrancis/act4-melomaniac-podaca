@@ -19,12 +19,12 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light " href="index.php">Home</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song01.php">Song1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song02.php">Song2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song03.php">Song3</a></li>
-                         <li class="nav-item"><a class="nav-link text-light" href="song04.php">Song4</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="song05.php">Song5</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="song06.php">Song6</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song1</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Song2</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song3.php">Song3</a></li>
+                         <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song4</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song5</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="song6.php">Song6</a></li>
                     </ul>
                 </div>
             </div>
