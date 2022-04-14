@@ -31,15 +31,17 @@
                 </div>
             </div>
         </nav>
+
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-3 mb-0 text-center">
 
+                <!-- About logo-->
                 <img src="images/icon01.PNG" width="50" height="50">
-                <h3 class="lead">SONG 1</h3>
+                <h3 class="lead">SONG 5</h3>
 
                 <?php echo "<br/>" ?>
-                <h1 class='font-italic'>"Take Me Home, Country Road"</h1> 
+                <h1 class='font-italic'>"I Lay My Love On You"</h1>  
                 
             </div>
         </header>
@@ -49,52 +51,88 @@
                 background: linear-gradient(to bottom, #ffefba, #ffffff);
             }
         </style>
+
+
         <!-- About section-->
         <section id="songs">
             <div class="container px-4">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
+
                         <img src="images/icon02.PNG" width="100" height="100">
                     
                         <?php
-
-                        echo "<h2 class='text-primary'>Take Me Home, Country Road</h2>";  
-                        echo "<p class='lead'>John Denver</p>";
+                        //for adding lyrics
+                        echo "<h2 class='text-primary'>I Lay My Love On You</h2>";  
+                        echo "<p class='lead'>Westlife</p>";
+                        echo "<br/>";
+    
+                        echo "<p>[Em]Just a smile and the [Am]rain is gone</p>";
+                        echo "<p>[Em][D]Can hardly [G]believe it [Bm](yeah)</p>";
+                        echo "<p>[Em]There's an angel standing [Am]next to me</p>";
+                        echo "<p>[C]Reaching [D]for my [G]heart [D]</p>";
                         echo "<br/>";
 
-                        echo "<p>[G] Almost Heaven, [Em] West Virginia</p>";
-                        echo "<p>[D] Blue Ridge Mountains, [C] Shenandoah [G] River</p>";
-                        echo "<p>[G] Life is old here, [Em] older than the trees</p>";
-                        echo "<p>[D] younger than the mountains, [C] blowin like a [G] breeze</p>";
+                        echo "<p>[Em]Just a smile and there's [Am]no way back</p>";
+                        echo "<p>[Em][D]Can hardly [G]believe it [Bm](yeah) </p>";
+                        echo "<p>[Em]But there's an angel and she's [Am]calling me</p>";
+                        echo "<p>[C]Reaching [D]for my [G]heart [D]</p>";
+                        echo "<p>[Em]I know, that I'll be ok now</p>";
+                        echo "<p>[G]This time it's [D]real</p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Chorus]</p>";
-                        echo "<p>Country [G] Roads, take me [D] home</p>";
-                        echo "<p>To a [Em] place, I [C] belong</p>";
-                        echo "<p>West [G] Virginia, mountain [D] mama</p>";
-                        echo "<p>Take me [C] home, country [G] roads</p>";
+                        echo "<p>I lay my love on [A]you, it's all I want to [E]do</p>";
+                        echo "<p>Every time I [F#m]breathe I feel brand [D]new</p>";
+                        echo "<p>You [E]open up my [A]heart, show me all your [E]love </p>";
+                        echo "<p>And walk right [Bm]through, as I [D]lay my [E]love on [A]you</p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Verse 2]</p>";
-                        echo "<p>[G] All my memories [Em] gather round her</p>";
-                        echo "<p>[D] Miner's lady, [C] stranger to blue [G] water</p>";
-                        echo "<p>[G] Dark and dusty, [Em] painted on the sky</p>";
-                        echo "<p>[D] Misty taste of moonshine, [C] teardrop in my [G] eye</p>";
+                        echo "<p>[Em]I was lost in a [Am]lonely place</p>";
+                        echo "<p>[D]Could hardly [G]believe it [Bm](yeah)</p>";
+                        echo "<p>[Em]Holding on to [Am]yesterdays</p>";
+                        echo "<p>[C]Far, [D]far too long [G]</p>";
+                        echo "<p>[Em]Now I believe its ok cause</p>";
+                        echo "<p>[G]This time it's [D]real </p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Verse 3]</p>";
-                        echo "<p>[Em] I hear her [D] voice in the [G] morning hour she calls me</p>";
-                        echo "<p>The [C] radio re- [G]minds me of my [D] home far away</p>";
-                        echo "<p>And [Em] driving down the [F] road I get a [C] feeling that</p>";
-                        echo "<p>I [G] should have been home [D] yesterday, yester-[D7] day</p>";
+                        echo "<p>I lay my love on [A]you, it's all I want to [E]do </p>";
+                        echo "<p>Every time I [F#m]breathe I feel brand [D]new</p>";
+                        echo "<p>You [E]open up my [A]heart, show me all your [E]love</p>";
+                        echo "<p>And walk right [Bm]through, as I [D]lay my [E]love on [Bm]you [G] [A]</p>";
                         echo "<br/>";
+
+                        echo "<p>I never knew that love could feel so [Bm]good [G] [A] [B]</p>";
+                        echo "<p>[Bm] [A]....Like a [D]once in a [E]lifetime </p>";
+                        echo "<p>[Bm]You [A]change [D]my [E]world</p>";
+                        echo "<br/>";
+
+                        echo "<p>[B]I lay my [F#]love on you</p>";
+                        echo "<p>[G#m]You make me [E]feel brand new </p>";
+                        echo "<p>[B]Show me all your [F#]love </p>";
+                        echo "<p>And walk right [C#m]through, as I [E]lay my [F#]love on [B]you</p>";
+                        echo "<br/>";
+
+                        echo "<p>I lay my love on [B]you, it's all I want to [F#]do</p>";
+                        echo "<p>Every time I [G#m]breathe I feel brand [E]new </p>";
+                        echo "<p>You [F#]open up my [B]heart, show me all your [F#]love</p>";
+                        echo "<p>And walk right [C#m]through, as I [E]lay my [F#]love on [B]you</p>";
+                        echo "<br/>";
+
+                        echo "<p>[B]I lay my [F#]love on you </p>";
+                        echo "<p>[G#m]You make me [E]feel brand new</p>";
+                        echo "<p>You open up my [B]heart, show me all your [F#]love </p>";
+                        echo "<p>And walk right [C#m]through, as I [E]lay my [F#]love on [B]you </p>";
+                        echo "<p>As I [E]lay my [F#]love on [B]you</p>";
+
 
                         ?>
                         <br>
+                        <!--Audio-->
                         <p class='text-dark fw-bolder'>PLAY</p>
                         <audio controls>
-                    <source src="audios/sound1.mp3" type="audio/mpeg">
-                </audio> 
+                        <source src="audios/sound5.mp3" type="audio/mpeg">
+                        </audio> 
+
                     </div>
                 </div>
             </div>
