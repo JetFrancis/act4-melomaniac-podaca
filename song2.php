@@ -1,5 +1,6 @@
 
 
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -36,10 +37,10 @@
             <div class="container px-3 mb-0 text-center">
 
                 <img src="images/icon01.PNG" width="50" height="50">
-                <h3 class="lead">SONG 1</h3>
+                <h3 class="lead">SONG 2</h3>
 
                 <?php echo "<br/>" ?>
-                <h1 class='font-italic'>"Take Me Home, Country Road"</h1> 
+                <h1 class='font-italic'>"At My Worst"</h1>  
                 
             </div>
         </header>
@@ -58,43 +59,69 @@
                     
                         <?php
 
-                        echo "<h2 class='text-primary'>Take Me Home, Country Road</h2>";  
-                        echo "<p class='lead'>John Denver</p>";
+                        echo "<h2 class='text-primary'>At My Worst</h2>";  
+                        echo "<p class='lead'>Pink Sweats</p>";
                         echo "<br/>";
 
-                        echo "<p>[G] Almost Heaven, [Em] West Virginia</p>";
-                        echo "<p>[D] Blue Ridge Mountains, [C] Shenandoah [G] River</p>";
-                        echo "<p>[G] Life is old here, [Em] older than the trees</p>";
-                        echo "<p>[D] younger than the mountains, [C] blowin like a [G] breeze</p>";
+                        echo "<p>Can I call you [C]baby? Can you be my [Am]friend?</p>";
+                        echo "<p>Can you be my [Dm]lover up until the very [G]end?</p>";
+                        echo "<p>Let me show you [C]love, oh, no pretend [Am]</p>";
+                        echo "<p>[Stick by my [Dm]side even when the world is caving in [G], yeah</p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Pre-Chorus]</p>";
+                        echo "<p>Oh, oh, oh, don't [C], don't you [Am]worry</p>";
+                        echo "<p>I'll be [Dm]there whenever you [G]want me</p>";
                         echo "<br/>";
 
                         echo "<p class='small'>[Chorus]</p>";
-                        echo "<p>Country [G] Roads, take me [D] home</p>";
-                        echo "<p>To a [Em] place, I [C] belong</p>";
-                        echo "<p>West [G] Virginia, mountain [D] mama</p>";
-                        echo "<p>Take me [C] home, country [G] roads</p>";
+                        echo "<p>I need [C]somebody who can love me at my [Am]worst</p>";
+                        echo "<p>Know I'm not [Dm]perfect, but I hope you see my [G]worth</p>";
+                        echo "<p>'Cause it's only [C]you, nobody new, I put you [Am]first</p>";
+                        echo "<p>And for you [Dm], girl, I swear I'd do the [G]worst</p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Post-Chorus]</p>";
+                        echo "<p>Ooh ooh-ooh Ooh-ooh-ooh ooh-ooh-ooh-ooh<p/>";
                         echo "<br/>";
 
                         echo "<p class='small'>[Verse 2]</p>";
-                        echo "<p>[G] All my memories [Em] gather round her</p>";
-                        echo "<p>[D] Miner's lady, [C] stranger to blue [G] water</p>";
-                        echo "<p>[G] Dark and dusty, [Em] painted on the sky</p>";
-                        echo "<p>[D] Misty taste of moonshine, [C] teardrop in my [G] eye</p>";
+                        echo "<p>If you stay [C]forever, let me hold your [Am]hand</p>";
+                        echo "<p>I can fill those [Dm]places in your heart no one else [G]can</p>";
+                        echo "<p>Let me show you [C]love, oh, no [Am]pretend, yeah</p>";
+                        echo "<p>I'll be right [Dm]here, baby, you know it's sink or [G]swim</p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Verse 3]</p>";
-                        echo "<p>[Em] I hear her [D] voice in the [G] morning hour she calls me</p>";
-                        echo "<p>The [C] radio re- [G]minds me of my [D] home far away</p>";
-                        echo "<p>And [Em] driving down the [F] road I get a [C] feeling that</p>";
-                        echo "<p>I [G] should have been home [D] yesterday, yester-[D7] day</p>";
+                        echo "<p class='small'>[Pre-Chorus]</p>";
+                        echo "<p>Oh, oh, oh, don't [C], don't you [Am]worry</p>";
+                        echo "<p>I'll be [Dm]there whenever you [G]want me</p>";
                         echo "<br/>";
+
+                        echo "<p class='small'>[Chorus]</p>";
+                        echo "<p>I need [C]somebody who can love me at my [Am]worst</p>";
+                        echo "<p>Know I'm not [Dm]perfect, but I hope you see my [G]worth</p>";
+                        echo "<p>'Cause it's only [C]you, nobody new, I put you [Am]first</p>";
+                        echo "<p>And for you [Dm], girl, I swear I'd do the [G]worst</p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Post-Chorus]</p>";
+                        echo "<p>Ooh ooh-ooh Ooh-ooh-ooh ooh-ooh-ooh-ooh<p/>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Outro]</p>";
+                        echo "<p>I need [C]somebody who can love me at my [Am]worst</p>";
+                        echo "<p>Know I'm not [Dm]perfect, but I hope you see my [G]worth</p>";
+                        echo "<p>'Cause it's only [C]you, nobody new, I put you [Am]first</p>";
+                        echo "<p>And for you [Dm], girl, I swear I'd do the [G]worst</p>";
+                        echo "<br/>";
+
 
                         ?>
                         <br>
                         <p class='text-dark fw-bolder'>PLAY</p>
                         <audio controls>
-                    <source src="audios/sound1.mp3" type="audio/mpeg">
-                </audio> 
+                        <source src="audios/sound2.mp3" type="audio/mpeg">
+                        </audio> 
                     </div>
                 </div>
             </div>
