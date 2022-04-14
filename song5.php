@@ -13,6 +13,7 @@
         <link href="css/styles.css" rel="stylesheet" />
     </head>
     <body id="page-top">
+
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-danger fixed-top" id="mainNav">
             <div class="container px-4">
@@ -32,7 +33,7 @@
             </div>
         </nav>
 
-        <!-- Header-->
+        <!-- The Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-3 mb-0 text-center">
 
@@ -40,6 +41,7 @@
                 <img src="images/icon01.PNG" width="50" height="50">
                 <h3 class="lead">SONG 5</h3>
 
+                <!--Tittle-->
                 <?php echo "<br/>" ?>
                 <h1 class='font-italic'>"I Lay My Love On You"</h1>  
                 

@@ -32,6 +32,7 @@
                 </div>
             </div>
         </nav>
+        
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-3 mb-0 text-center">
@@ -50,6 +51,7 @@
                 background: linear-gradient(to bottom, #ffefba, #ffffff);
             }
         </style>
+
         <!-- About section-->
         <section id="songs">
             <div class="container px-4">
@@ -58,7 +60,7 @@
                         <img src="images/icon02.PNG" width="100" height="100">
                     
                         <?php
-
+                        //lyrics
                         echo "<h2 class='text-primary'>At My Worst</h2>";  
                         echo "<p class='lead'>Pink Sweats</p>";
                         echo "<br/>";
@@ -118,6 +120,7 @@
 
                         ?>
                         <br>
+                        <!--audio-->
                         <p class='text-dark fw-bolder'>PLAY</p>
                         <audio controls>
                         <source src="audios/sound2.mp3" type="audio/mpeg">

@@ -37,7 +37,7 @@
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-3 mb-0 text-center">
 
-                <!--logo-->
+                <!--about the logo-->
                 <img src="images/icon01.PNG" width="50" height="50">
                 <h3 class="lead">SONG 6</h3>
 
@@ -62,7 +62,7 @@
                         <img src="images/icon02.PNG" width="100" height="100">
                     
                         <?php
-
+                        //lyrics
                         echo "<h2 class='text-primary'>That Should Be Me</h2>";  
                         echo "<p class='lead'>Justin Bieber</p>";
                         echo "<br/>";
@@ -157,3 +157,5 @@
         <script src="js/scripts.js"></script>
     </body>
 </html>
+
+<!--Sa wakas, natapos din:). congratz self-->
