@@ -136,11 +136,13 @@
 
                         ?>
 
-                        <br>
+                      <br>
+                      <!--sample audio-->
                         <p class='text-dark fw-bolder'>PLAY</p>
                         <audio controls>
-                    <source src="audios/sound1.mp3" type="audio/mpeg">
-                </audio> 
+                        <source src="audios/sound6.mp3" type="audio/mpeg">
+                        </audio> 
+
                     </div>
                 </div>
             </div>
